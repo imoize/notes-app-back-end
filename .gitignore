@@ -2,3 +2,4 @@ node_modules
 notes-server-sg.pem
 .env
 .prod.env
+test-*
